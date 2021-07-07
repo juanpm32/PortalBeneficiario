@@ -248,14 +248,14 @@ _Con respecto al punto 4, los videos serán visualizados rápidamente en una ven
 
 _Contendrá un botón para registrar nueva Oferta Laboral con los siguientes campos:_
 
-a)	Nombre de la Oferta Laboral
-b)	Ficha de Pedido (dato que enlaza a los registros del SILNET)
-c)	Nombre de la Empresa
-d)	Funciones de la Oferta Laboral
-e)	Lugar de Evaluación
-f)	Fecha de Evaluación
-g)	Hora de Evaluación
-h)	Información adicional
+1.	Nombre de la Oferta Laboral.
+2.	Ficha de Pedido (dato que enlaza a los registros del SILNET)
+3.	Nombre de la Empresa
+4.	Funciones de la Oferta Laboral
+5.	Lugar de Evaluación
+6.	Fecha de Evaluación
+7.	Hora de Evaluación
+8.	Información adicional
 
 _Además, el menú contará con un botón para visualizar las ofertas creadas la cual se filtrarán por vigentes y finalizadas, las ofertas vigentes con opción de finalizar manualmente._
 
