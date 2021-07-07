@@ -436,7 +436,7 @@ _El sistema mostrará en el lado superior derecho el nombre del usuario asimismo
 ### TECNOLOGIA UTILIZADA
 
 ```
-* BOOSTRAP 4
+* BOOSTRAP 4 (PLANTILLA ADMIN TOVVL)
 * PHP MVC
 * JAVASCRIPT JQUERY
 * ORACLE
