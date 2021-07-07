@@ -13,50 +13,50 @@
 ![image](https://user-images.githubusercontent.com/14944400/116321703-2991b700-a780-11eb-95ed-d954a206200b.png)
 
 
-FUNCIONALIDADES PORTAL BENEFICIARIO
+## FUNCIONALIDADES PORTAL BENEFICIARIO
 
-PERFILES Y MENÚS DEL PORTAL BENEFICIARIO
+### PERFILES Y MENÚS DEL PORTAL BENEFICIARIO
 
-1.	Perfiles del Portal Beneficiario
+1.	_Perfiles del Portal Beneficiario_
+
+*	Perfil Monitor
+*	Perfil Vinculador
+*	Perfil Beneficiario
+
+2.	_Menús de Portal Beneficiario por Perfil_
 
 a.	Perfil Monitor
-b.	Perfil Vinculador
-c.	Perfil Beneficiario
 
-2.	Menús de Portal Beneficiario por Perfil
-
-a.	Perfil Monitor
-
-•	Dashboard
-•	Intermediaciones
+*	Dashboard
+*	Intermediaciones
 
 b.	Perfil Vinculador
 
-•	Dashboard
-•	Beneficiarios
-•	Video Presentación
-•	Ofertas
-•	Intermediaciones
+*	Dashboard
+*	Beneficiarios
+*	Video Presentación
+*	Ofertas
+*	Intermediaciones
 
 c.	Perfil Beneficiario
 
-•	Inicio
-•	Perfil
-•	Video Presentación
-•	Ofertas Laborales
-•	Postulaciones
+*	Inicio
+*	Perfil
+*	Video Presentación
+*	Ofertas Laborales
+*	Postulaciones
 
-El aplicativo Portal Beneficiario contará con un inicio de sesión en la cual se accederá mediante un usuario y contraseña designados por el Programa. Asimismo, la recuperación de contraseña en el caso de perfil beneficiario se verá condicionado a si el participante ha registrado un correo en el sistema, de otro modo se llevará a cabo otro modo de contacto que el vinculador crea conveniente. 
+_El aplicativo Portal Beneficiario contará con un inicio de sesión en la cual se accederá mediante un usuario y contraseña designados por el Programa. Asimismo, la recuperación de contraseña en el caso de perfil beneficiario se verá condicionado a si el participante ha registrado un correo en el sistema, de otro modo se llevará a cabo otro modo de contacto que el vinculador crea conveniente._
 
-MENUS PERFIL MONITOR
+### MENUS PERFIL MONITOR
 
-•	Dashboard
+*	Dashboard
 
 Contiene 3 secciones:
 
 a)	Listado por Regiones
 
-Incluirá el Año de Capacitación como filtro, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:
+_Incluirá el Año de Capacitación como filtro, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:_
 
 1.	Región
 2.	Año de Capacitación
@@ -69,12 +69,12 @@ Incluirá el Año de Capacitación como filtro, asimismo un botón de descarga e
 9.	Cantidad de Insertados
 10.	Porcentaje de Insertados vs Aprobados
 
-Asimismo, contendrá 2 gráficos de barras: Región vs Intermediados y Región vs Insertados.
-Además, se mostrará los totales correspondientes a las vacantes iniciadas, vacantes egresadas, vacantes aprobadas, Intermediaciones, intermediados, cálculo de los porcentajes totales.
+_Asimismo, contendrá 2 gráficos de barras: Región vs Intermediados y Región vs Insertados.
+Además, se mostrará los totales correspondientes a las vacantes iniciadas, vacantes egresadas, vacantes aprobadas, Intermediaciones, intermediados, cálculo de los porcentajes totales._
 
 b)	Listado por Código de Grupo
 
-Incluirá la Región, Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:
+_Incluirá la Región, Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:_
 
 1.	Región
 2.	ECAP
@@ -91,11 +91,11 @@ Incluirá la Región, Año de Capacitación y Curso, como filtros, asimismo un b
 13.	Cantidad de Insertados
 14.	Porcentaje de Insertados vs Aprobados
 
-Asimismo, se mostrará los totales correspondientes a las cantidades y porcentaje de la tabla.
+_Asimismo, se mostrará los totales correspondientes a las cantidades y porcentaje de la tabla._
 
 c)	Listado por Beneficiario
 
-Incluirá la Región, Código de Grupo, Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:
+_Incluirá la Región, Código de Grupo, Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:_
 
 1.	Región
 2.	Código de Grupo
@@ -112,14 +112,16 @@ Incluirá la Región, Código de Grupo, Año de Capacitación y Curso, como filt
 13.	Fecha Intermediación
 14.	Fecha Inserción
 
-Asimismo, se mostrará los totales correspondientes a las cantidades de Intermediados e insertados.
+_Asimismo, se mostrará los totales correspondientes a las cantidades de Intermediados e insertados._
 
 •	Intermediaciones
 
 Contiene 2 secciones:
 
 a)	Convocatoria
-Incluirá el Código de Oferta como filtro, en la tabla que se contendrá los siguientes campos:
+
+_Incluirá el Código de Oferta como filtro, en la tabla que se contendrá los siguientes campos:_
+
 1.	Código de Grupo
 2.	Nombre de Convocado
 3.	Fecha de Invitación a la convocatoria
@@ -131,11 +133,11 @@ Incluirá el Código de Oferta como filtro, en la tabla que se contendrá los si
 9.	Fecha de Inserción
 10.	Observaciones
 
-Asimismo, se mostrará los totales correspondientes a las cantidades de Convocados y Confirmados.
+_Asimismo, se mostrará los totales correspondientes a las cantidades de Convocados y Confirmados._
 
 b)	Estado del Beneficiario
 
-Incluirá el DNI como filtro, de acuerdo al filtro se mostrarán el nombre del beneficiario, Código de grupo y su estado (insertado / no insertado) en la tabla que contendrá los siguientes campos:
+_Incluirá el DNI como filtro, de acuerdo al filtro se mostrarán el nombre del beneficiario, Código de grupo y su estado (insertado / no insertado) en la tabla que contendrá los siguientes campos:_
 
 1.	Código de Oferta
 2.	Nombre de Empresa 
@@ -143,21 +145,21 @@ Incluirá el DNI como filtro, de acuerdo al filtro se mostrarán el nombre del b
 4.	Fecha de confirmación
 5.	Observaciones
 
-Se mostrará los totales de Convocatorias, Confirmaciones e Intermediaciones. 
+_Se mostrará los totales de Convocatorias, Confirmaciones e Intermediaciones. 
 El vinculador podrá determinar manualmente si el beneficiario es intermediable o no intermediable mediante un botón asignando un comentario de observación.
-Asimismo, se visualizará mediante un mensaje modal el historial de acciones intermediables mencionada en el párrafo anterior.
+Asimismo, se visualizará mediante un mensaje modal el historial de acciones intermediables mencionada en el párrafo anterior._
 
-MENUS PERFIL VINCULADOR
+### MENUS PERFIL VINCULADOR
 
-Las Región que se mostrará será la asignada al vinculador, para el caso de Lima se mostrará adicionalmente el Distrito.
+_Las Región que se mostrará será la asignada al vinculador, para el caso de Lima se mostrará adicionalmente el Distrito._
 
-•	Dashboard
+*	Dashboard
 
 Contiene 3 secciones:
 
 a)	Listado por Regiones
 
-Incluirá el Año de Capacitación como filtro, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:
+_Incluirá el Año de Capacitación como filtro, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:_
 
 1.	Región
 2.	Año de Capacitación
@@ -170,11 +172,11 @@ Incluirá el Año de Capacitación como filtro, asimismo un botón de descarga e
 9.	Cantidad de Insertados
 10.	Porcentaje de Insertados vs Aprobados
 
-Solo se mostrará los datos de la región al que corresponde el Vinculador.
+_Solo se mostrará los datos de la región al que corresponde el Vinculador._
 
 b)	Listado por Código de Grupo
 
-Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:
+_Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:_
 
 1.	Región
 2.	ECAP
@@ -191,12 +193,12 @@ Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en u
 13.	Cantidad de Insertados
 14.	Porcentaje de Insertados vs Aprobados
 
-Asimismo, se mostrará los totales correspondientes a las cantidades y porcentaje de la tabla.
-Solo se mostrará los datos de la región al que corresponde el Vinculador.
+_Asimismo, se mostrará los totales correspondientes a las cantidades y porcentaje de la tabla.
+Solo se mostrará los datos de la región al que corresponde el Vinculador._
 
 c)	Listado por Beneficiario
 
-Incluirá el Código de Grupo, Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:
+_Incluirá el Código de Grupo, Año de Capacitación y Curso, como filtros, asimismo un botón de descarga en un archivo Excel los datos de la tabla filtrada, y que contendrá los siguientes campos:_
 
 1.	Región
 2.	Código de Grupo
@@ -213,12 +215,12 @@ Incluirá el Código de Grupo, Año de Capacitación y Curso, como filtros, asim
 13.	Fecha Intermediación
 14.	Fecha Inserción
 
-Asimismo, se mostrará los totales correspondientes a las cantidades de Intermediados e insertados.
-Solo se mostrará los datos de la región al que corresponde el Vinculador.
+_Asimismo, se mostrará los totales correspondientes a las cantidades de Intermediados e insertados.
+Solo se mostrará los datos de la región al que corresponde el Vinculador._
 
-•	Beneficiarios
+*	Beneficiarios
 
-Se mostrará los registros de Beneficiarios en una tabla con los siguientes campos:
+_Se mostrará los registros de Beneficiarios en una tabla con los siguientes campos:_
 
 1.	Nombre Completo
 2.	DNI
@@ -229,9 +231,9 @@ Se mostrará los registros de Beneficiarios en una tabla con los siguientes camp
 7.	Visualización rápida de los datos personales del beneficiario
 8.	Edición de los datos personales, cursos y experiencias del beneficiario
 
-Con respecto al punto numero 8, esta acción enviaría una notificación al beneficiario para que confirme los datos registrados por el vinculador en el caso que los datos sean correctos, en todo caso los datos serán rechazados registrando el motivo con un comentario.
+_Con respecto al punto numero 8, esta acción enviaría una notificación al beneficiario para que confirme los datos registrados por el vinculador en el caso que los datos sean correctos, en todo caso los datos serán rechazados registrando el motivo con un comentario._
 
-•	Video Presentación
+*	Video Presentación
 Se mostrarán los links de Video Presentación de los beneficiarios en una tabla con los siguientes campos complementarios:
 
 1.	Nombre completo del beneficiario
@@ -239,11 +241,11 @@ Se mostrarán los links de Video Presentación de los beneficiarios en una tabla
 3.	DNI
 4.	Video Presentación (Link)
 
-Con respecto al punto 4, los videos serán visualizados rápidamente en una ventana modal.
+_Con respecto al punto 4, los videos serán visualizados rápidamente en una ventana modal._
 
-•	Ofertas
+*	Ofertas
 
-Contendrá un botón para registrar nueva Oferta Laboral con los siguientes campos:
+_Contendrá un botón para registrar nueva Oferta Laboral con los siguientes campos:_
 
 a)	Nombre de la Oferta Laboral
 b)	Ficha de Pedido (dato que enlaza a los registros del SILNET)
@@ -254,9 +256,9 @@ f)	Fecha de Evaluación
 g)	Hora de Evaluación
 h)	Información adicional
 
-Además, el menú contará con un botón para visualizar las ofertas creadas la cual se filtrarán por vigentes y finalizadas, las ofertas vigentes con opción de finalizar manualmente.
+_Además, el menú contará con un botón para visualizar las ofertas creadas la cual se filtrarán por vigentes y finalizadas, las ofertas vigentes con opción de finalizar manualmente._
 
-Se mostrarán los registros de las ofertas en una tabla con los siguientes campos:
+_Se mostrarán los registros de las ofertas en una tabla con los siguientes campos:_
 
 1.	Código de Oferta Laboral
 2.	Nombre de Oferta Laboral
@@ -264,7 +266,7 @@ Se mostrarán los registros de las ofertas en una tabla con los siguientes campo
 4.	Visualización de los convocados a la Oferta Laboral
 5.	Editar Oferta
 
-Con respecto al punto 3, se elegirán los beneficiarios a invitar a las convocatorias mediante unos filtros específicos, las cuales son:
+_Con respecto al punto 3, se elegirán los beneficiarios a invitar a las convocatorias mediante unos filtros específicos, las cuales son:_
 
 a.	Año de Capacitación (3 últimos años)
 b.	Cursos
@@ -275,15 +277,15 @@ f.	Edad
 g.	Grado de Instrucción
 h.	Tipo de Discapacidad
 
-Con respecto al punto 5, la edición de la Oferta Laboral restablecerá la fecha de creación de fecha de registro, reiniciando la cuenta de 15 días predeterminados para que se finalice automáticamente.
+_Con respecto al punto 5, la edición de la Oferta Laboral restablecerá la fecha de creación de fecha de registro, reiniciando la cuenta de 15 días predeterminados para que se finalice automáticamente._
 
-•	Intermediaciones
+*	Intermediaciones
 
 Contiene 2 secciones:
 
 c)	Convocatoria
 
-Incluirá el Código de Oferta como filtro, en la tabla que se contendrá los siguientes campos:
+_Incluirá el Código de Oferta como filtro, en la tabla que se contendrá los siguientes campos:_
 
 1.	Código de Grupo
 2.	Nombre de Convocado
@@ -292,11 +294,11 @@ Incluirá el Código de Oferta como filtro, en la tabla que se contendrá los si
 5.	Fecha de Confirmación por parte del Convocado
 6.	Observaciones
 
-Asimismo, se mostrará los totales correspondientes a las cantidades de Convocados y Confirmados.
+_Asimismo, se mostrará los totales correspondientes a las cantidades de Convocados y Confirmados._
 
 d)	Estado del Beneficiario
 
-Incluirá el DNI como filtro, de acuerdo al filtro se mostrarán el nombre del beneficiario, código de grupo y su estado (insertado / no insertado) y en la tabla que se contendrá los siguientes campos:
+_Incluirá el DNI como filtro, de acuerdo al filtro se mostrarán el nombre del beneficiario, código de grupo y su estado (insertado / no insertado) y en la tabla que se contendrá los siguientes campos:_
 
 1.	Código de Oferta
 2.	Nombre de Empresa
@@ -304,41 +306,41 @@ Incluirá el DNI como filtro, de acuerdo al filtro se mostrarán el nombre del b
 4.	Fecha que se confirmó
 5.	Observaciones
 
-Se mostrará los totales de Convocatorias, Confirmaciones e Intermediaciones. 
+_Se mostrará los totales de Convocatorias, Confirmaciones e Intermediaciones. 
 El vinculador podrá determinar manualmente si el beneficiario es intermediable o no intermediable mediante un botón asignando un comentario de observación.
-Asimismo, se visualizará mediante un mensaje modal el historial de acciones intermediables mencionada en el párrafo anterior.
+Asimismo, se visualizará mediante un mensaje modal el historial de acciones intermediables mencionada en el párrafo anterior._
 
 
-MENUS PERFIL BENEFICIARIO
+### MENUS PERFIL BENEFICIARIO
 
-•	Inicio
+1.	Inicio
 
--	Contiene una imagen y mensaje de bienvenida.
--	Se mostrará un mensaje de notificación cuando el vinculador haya editado o registrado datos personales, cursos o experiencias del beneficiario. En el caso que quiera visualizar la notificación el sistema le redireccionará a la pantalla de notificaciones incluida en el menú Perfil.
+*	Contiene una imagen y mensaje de bienvenida.
+*	Se mostrará un mensaje de notificación cuando el vinculador haya editado o registrado datos personales, cursos o experiencias del beneficiario. En el caso que quiera visualizar la notificación el sistema le redireccionará a la pantalla de notificaciones incluida en el menú Perfil.
 
-•	Perfil
+2.	Perfil
 
 Contiene 5 secciones de manera secuencial:
 
 a)	Datos Generales
 
-1.	Datos Personales
+*	Datos Personales
 
-Se visualizará de la imagen de Perfil, la cual será actualizable. Y los campos específicos de datos personales:
+_Se visualizará de la imagen de Perfil, la cual será actualizable. Y los campos específicos de datos personales:_
 
-	Nombre Completo
-	Primer Apellido
-	Segundo Apellido
-	Departamento
-	Provincia
-	Distrito
-	Celular
-	Teléfono de Casa
-	Email
+**	Nombre Completo
+**	Primer Apellido
+**	Segundo Apellido
+**	Departamento
+**	Provincia
+**	Distrito
+**	Celular
+**	Teléfono de Casa
+**	Email
 
-2.	Perfil
+2.2.	Perfil
 
-3.	Áreas de Dominio
+2.3.	Áreas de Dominio
 
 b)	Formación Académica
 
@@ -361,7 +363,7 @@ Los cursos registrados se mostrarán en una tabla con las opciones de editar y e
 
 d)	Formación Complementaria
 
-1.	Formación Complementaria
+2.4.	Formación Complementaria
 
 	Entidad de Capacitación
 	Nombre del Curso
@@ -369,7 +371,7 @@ d)	Formación Complementaria
 	Fecha Fin (Mes/Año)
 	Duración (mayor a 20 horas lectivas)
 
-2.	Otros Conocimientos
+2.5.	Otros Conocimientos
 
 I.	Idioma
 
