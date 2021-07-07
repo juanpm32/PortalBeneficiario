@@ -269,14 +269,14 @@ _Se mostrarán los registros de las ofertas en una tabla con los siguientes camp
 
 _Con respecto al punto 3, se elegirán los beneficiarios a invitar a las convocatorias mediante unos filtros específicos, las cuales son:_
 
-a)	Año de Capacitación (3 últimos años)
-b)	Cursos
-c)	Código de Grupo
-d)	Distrito (visualización que se muestra solo si el vinculador pertenece a Lima)
-e)	Sexo
-f)	Edad
-g)	Grado de Instrucción
-h)	Tipo de Discapacidad
+1.	Año de Capacitación (3 últimos años)
+2.	Cursos
+3.	Código de Grupo
+4.	Distrito (visualización que se muestra solo si el vinculador pertenece a Lima)
+5.	Sexo
+6.	Edad
+7.	Grado de Instrucción
+8.	Tipo de Discapacidad
 
 _Con respecto al punto 5, la edición de la Oferta Laboral restablecerá la fecha de creación de fecha de registro, reiniciando la cuenta de 15 días predeterminados para que se finalice automáticamente._
 
