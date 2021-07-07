@@ -437,7 +437,7 @@ _El sistema mostrará en el lado superior derecho el nombre del usuario asimismo
 
 ```
 * BOOSTRAP 4 (PLANTILLA ADMIN TOVVL)
-* PHP MVC
-* JAVASCRIPT JQUERY
+* PHP MVC (LIB: FPDF, PHPMAILER)
+* JAVASCRIPT JQUERY (LIB: DATATABLES, HIGHCHARTTABLE, SWEETALERT2)
 * ORACLE
 ```
