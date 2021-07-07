@@ -1,6 +1,7 @@
-# PortalBeneficiario  
+# PortalBeneficiario  (MINISTERIO DE TRABAJO)
 
-(Imágenes muestran información referencial)
+_(Imágenes muestran información referencial)_
+_Desarrollo sin equipo_
 
 ![image](https://user-images.githubusercontent.com/14944400/116317966-aec59d80-a779-11eb-8551-fde6d38efda3.png)
 
