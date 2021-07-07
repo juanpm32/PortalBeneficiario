@@ -324,54 +324,54 @@ Contiene 5 secciones de manera secuencial:
 
 a)	Datos Generales
 
-*	Datos Personales
+1.	Datos Personales
 
 _Se visualizará de la imagen de Perfil, la cual será actualizable. Y los campos específicos de datos personales:_
 
-**	Nombre Completo
-**	Primer Apellido
-**	Segundo Apellido
-**	Departamento
-**	Provincia
-**	Distrito
-**	Celular
-**	Teléfono de Casa
-**	Email
+*	Nombre Completo
+*	Primer Apellido
+*	Segundo Apellido
+*	Departamento
+*	Provincia
+*	Distrito
+*	Celular
+*	Teléfono de Casa
+*	Email
 
-2.2.	Perfil
+2.	Perfil
 
-2.3.	Áreas de Dominio
+3.	Áreas de Dominio
 
 b)	Formación Académica
 
-	Entidad de Capacitación
-	Nombre del Curso
-	Fecha de Inicio
-	Fecha Fin
+*	Entidad de Capacitación
+*	Nombre del Curso
+*	Fecha de Inicio
+*	Fecha Fin
 
-Los cursos registrados se mostrarán en una tabla con las opciones de editar y eliminar.
+_Los cursos registrados se mostrarán en una tabla con las opciones de editar y eliminar._
 
 c)	Experiencias Profesional
 
-	Nombre de la Empresa
-	Nombre del Puesto
-	Fecha de Inicio
-	Fecha Fin
-	Descripción de Funciones
+*	Nombre de la Empresa
+*	Nombre del Puesto
+*	Fecha de Inicio
+*	Fecha Fin
+*	Descripción de Funciones
 
-Los cursos registrados se mostrarán en una tabla con las opciones de editar y eliminar.
+_Los cursos registrados se mostrarán en una tabla con las opciones de editar y eliminar._
 
 d)	Formación Complementaria
 
-2.4.	Formación Complementaria
+1.	Formación Complementaria
 
-	Entidad de Capacitación
-	Nombre del Curso
-	Fecha de Inicio (Mes/Año)
-	Fecha Fin (Mes/Año)
-	Duración (mayor a 20 horas lectivas)
+*	Entidad de Capacitación
+*	Nombre del Curso
+*	Fecha de Inicio (Mes/Año)
+*	Fecha Fin (Mes/Año)
+*	Duración (mayor a 20 horas lectivas)
 
-2.5.	Otros Conocimientos
+2.	Otros Conocimientos
 
 I.	Idioma
 
@@ -389,9 +389,9 @@ e)	Datos Adicionales
 
 2.	Referencias
 
-	Disponibilidad a Solicitud
+*	Disponibilidad a Solicitud
 
-	Referencia
+*	Referencia
 
 a.	Nombre y Apellido
 b.	Cargo
@@ -399,26 +399,26 @@ c.	Nombre de la Organización
 d.	Número de Celular
 e.	Correo Electrónico
 
-Como parte del menú contendrá un botón para visualizar las notificaciones con respecto a la confirmación o rechazo del beneficiario, de los datos personales, cursos y experiencias actualizados por parte del vinculador.
-Además, el beneficiario podrá visualizar su CV en el Portal Beneficiario, mediante un botón contenido en el presente menú.
+_Como parte del menú contendrá un botón para visualizar las notificaciones con respecto a la confirmación o rechazo del beneficiario, de los datos personales, cursos y experiencias actualizados por parte del vinculador.
+Además, el beneficiario podrá visualizar su CV en el Portal Beneficiario, mediante un botón contenido en el presente menú._
 
-•	Video Presentación
+  *	Video Presentación
 
-Contendrá la sección para registro de la url del video que estará guardado en una web externa, y será visualizada automáticamente.
-Además, se podrá acceder mediante un link externo a un tutorial en pdf que enseñará la manera correcta de subir un video a un web de videos en internet.
+  _Contendrá la sección para registro de la url del video que estará guardado en una web externa, y será visualizada automáticamente.
+Además, se podrá acceder mediante un link externo a un tutorial en pdf que enseñará la manera correcta de subir un video a un web de videos en internet._
 
-•	Ofertas
+  *	Ofertas
 
-Contendrá las Ofertas Laborales creadas por el vinculador y que haya sido invitado el beneficiario, de manera resumida, los datos que se mostrarán en primera plana son:
+  _Contendrá las Ofertas Laborales creadas por el vinculador y que haya sido invitado el beneficiario, de manera resumida, los datos que se mostrarán en primera plana son:_
 
-	Nombre de la Oferta Laboral
-	Nombre de la Empresa
-	Fecha de Evaluación
+*	Nombre de la Oferta Laboral
+*	Nombre de la Empresa
+*	Fecha de Evaluación
 
-Asimismo, incluirá un botón para visualizar el detalle de la Oferta Laboral, y así poder confirmar su asistencia.
-Además, estará visible la sección de Ofertas que se perdió de postular el beneficiario la cual se podrá acceder incluso a su detalle solo para visualizar.
+  _Asimismo, incluirá un botón para visualizar el detalle de la Oferta Laboral, y así poder confirmar su asistencia.
+Además, estará visible la sección de Ofertas que se perdió de postular el beneficiario la cual se podrá acceder incluso a su detalle solo para visualizar._
 
-•	Postulaciones
+*	Postulaciones
 
 Contiene 2 secciones:
 
@@ -429,5 +429,14 @@ b)	Postulaciones Finalizadas
 Se visualizarán la lista de Ofertas laborales de manera resumida que el beneficiario ha confirmado y que ya culminaron, mostrándose un mensaje de finalizado y en orden de más reciente al más antiguo.
 Al presionar sobre la Oferta Finalizada se mostrará el detalle del mismo.
 
-El sistema mostrará en el lado superior derecho el nombre del usuario asimismo con la opción de cerrar la sesión actual y el tiempo máximo de inactividad será de 10 minutos.
+_El sistema mostrará en el lado superior derecho el nombre del usuario asimismo con la opción de cerrar la sesión actual y el tiempo máximo de inactividad será de 10 minutos._
 
+
+### TECNOLOGIA UTILIZADA
+
+```
+* BOOSTRAP 4
+* PHP MVC
+* JAVASCRIPT JQUERY
+* ORACLE
+```
